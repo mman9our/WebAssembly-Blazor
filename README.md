@@ -27,8 +27,6 @@ Follow these steps to get started with the WebAssembly-Blazor project:
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request. Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Resources
 - [Blazor Documentation](https://docs.microsoft.com/aspnet/core/blazor/)
