@@ -1,6 +1,5 @@
 # WebAssembly-Blazor Project
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 The WebAssembly-Blazor project showcases the capabilities of Blazor, a web framework that enables building interactive client-side web applications using C# and .NET, combined with the performance and portability of WebAssembly. 
