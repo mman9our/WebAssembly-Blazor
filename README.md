@@ -1,5 +1,8 @@
 # WebAssembly-Blazor Project
 
+## Powerpoint Slides
+Please play the Slide show option presentation to view all videos and content.
+https://www.mediafire.com/file/xd5p0npj1h1vpvz/WebAssembly_%2526_WebGL.pptx/file
 
 ## Description
 The WebAssembly-Blazor project showcases the capabilities of Blazor, a web framework that enables building interactive client-side web applications using C# and .NET, combined with the performance and portability of WebAssembly. 
